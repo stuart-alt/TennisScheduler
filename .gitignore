@@ -1,3 +1,5 @@
+.idea/
 /venv/
 clube_tenis.db
 testes.py
+__pycache__
